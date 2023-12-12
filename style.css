@@ -65,3 +65,19 @@ img {
   font-size: 16px;
   cursor: pointer;
 }
+
+/* CSS Changes */
+.eachToDo{
+  display: flex;
+  justify-content: space-between;
+}
+
+.editndremove{
+  display: flex;
+  justify-content: space-between;
+  width: 10%;
+}
+
+.editndremove:hover{
+  cursor: pointer;
+}
